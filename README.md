@@ -25,7 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Running json-server api
 
-Run `json-server --watch data.json --routes routes.json` to run json-server
+install `npm install -g json-server`
+
+Run `json-server --watch data.json --routes routes.json` to run json-server [json-server](https://github.com/typicode/json-server/).
+
+
 
 
 
