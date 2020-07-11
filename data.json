@@ -1,0 +1,69 @@
+{
+  "author": [
+    {
+      "id": 1,
+      "age": 16,
+      "name": "Andy"
+    },
+    {
+      "id": 2,
+      "age": 22,
+      "name": "Lisa"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "date": "03-18-2016",
+      "message": "Nice!"
+    },
+    {
+      "id": 2,
+      "date": "06-21-2017",
+      "message": "Great view!"
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "author": "Lisa",
+      "description": "A wonderful view of nature",
+      "img": "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
+      "title": "A natural view"
+    },
+    {
+      "id": 2,
+      "author": "Andy",
+      "description": "Seaside sunset",
+      "img": "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
+      "title": "Landscape view"
+    }
+  ],
+  "courses": [
+    {
+      "id": "9d5ba7a1-5874-4024-b9ca-a2d91991cce9",
+      "name": "Angular 8 - The Complete Guide",
+      "description": "Master Angular and build awesome, reactive web apps"
+    },
+    {
+      "id": "87a21a63-a202-4bef-a7db-351d20dfee58",
+      "name": "Spring Boot",
+      "description": "Learn Spring Boot - Rapid Spring Application Development"
+    },
+    {
+      "id": "3f1bcced-e2ae-4824-a03e-1551bb87e919",
+      "name": "React - The Complete Guide",
+      "description": "Dive in and learn React.js from scratch!"
+    },
+    {
+      "name": "React 3 - The Complete Guide",
+      "description": "Dive in and learn React.js from scratch!",
+      "id": "3f1bcced-e2ae-4824-a03e-1551bb872919"
+    },
+    {
+      "id": "d4c1159c-ddfd-49f2-bf38-9fb6b02aba0f",
+      "name": "tubu",
+      "description": "nano"
+    }
+  ]
+}
